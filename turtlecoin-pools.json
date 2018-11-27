@@ -149,7 +149,8 @@
 			"url" : "https://trtl.ninja/",
 			"apiAddress" : "https://trtl.ninja/api/stats",
 			"scriptType" : "forknote",
-			"miningAddress" : "pool.trtl.ninja"
+			"miningAddress" : "pool.trtl.ninja",
+			"miningPort" : "3333"
 		},
 		{
 			"name" : "TRTL.waale.me",
