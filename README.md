@@ -1,6 +1,6 @@
-# Turtlecoin pool for GUI Miner
+# BLOC-GUI-Miner Pools
 
-This repository will contain a list with the Monero, Turtlecoin and Haven pools. This is used in the [BLOC GUI Miner](https://github.com/furiousteam/BLOC-GUI-Miner), the official [bloc.money](https://bloc.money/) miner, which can also be used to mine these coin.  
+This repository will contain a list with the Monero, Turtlecoin and Haven pools. This is used in the [BLOC GUI Miner](https://github.com/furiousteam/BLOC-GUI-Miner), the official [bloc.money](https://bloc.money/) miner, which can also be used to mine these coins.  
 For now, only forknote pool scripts are supported.
 
 ## How to add / edit a pool
