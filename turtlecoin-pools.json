@@ -1,0 +1,211 @@
+{
+	pools: [
+		{
+			"name" : "AtPool.party",
+			"url" : "https://turtle.atpool.party/",
+			"apiAddress" : "http://turtle-eu.atpool.party:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "geo.atpool.party"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "CODPool",
+			"url" : "https://trtl.codpool.com/",
+			"apiAddress" : "https://pool1.codpool.com:8119/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.pool.codpool.com"
+			"miningPort" : "4449"
+		},
+		{
+			"name" : "Crazybird's Pool",
+			"url" : "https://www.crazybird.fr/turtlepool/",
+			"apiAddress" : "https://mining.crazybird.fr:8118/",
+			"scriptType" : "forknote",
+			"miningAddress" : "crazybird.fr"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "CryptoAsiaPool.com",
+			"url" : "http://trtl.cryptoasiapool.com/",
+			"apiAddress" : "http://trtl.cryptoasiapool.com:8118/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.cryptoasiapool.com"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "CryptoHispano.net",
+			"url" : "https://trtl.cryptohispano.net/",
+			"apiAddress" : "https://trtl.cryptohispano.net/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.cryptohispano.net"
+			"miningPort" : "4444"
+		},
+		{
+			"name" : "CryptoNote.social",
+			"url" : "https://cryptonote.social/trtl/",
+			"apiAddress" : "https://cryptonote.social/pool/statistics/trtl/",
+			"scriptType" : "other",
+			"miningAddress" : "cryptonote.social"
+			"miningPort" : "4444"
+		},
+		{
+			"name" : "CryptoPool.space",
+			"url" : "https://trtl.cryptopool.space/",
+			"apiAddress" : "https://trtl.cryptopool.space/api/",
+			"scriptType" : "node.js",
+			"miningAddress" : "pool.trtl.cryptopool.space"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "fr.trtl.no EU",
+			"url" : "http://fr.trtl.no/",
+			"apiAddress" : "http://fr.trtl.no:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "fr.trtl.no"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "FunkyPenguin.co.nz",
+			"url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
+			"apiAddress" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.heigh-ho.funkypenguin.co.nz"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "Hackerknowledge.de",
+			"url" : "https://trtl.hackerknowledge.de/",
+			"apiAddress" : "https://pool.trtl.hackerknowledge.de:8119/",
+			"scriptType" : "forknote",
+			"miningAddress" : "pool.trtl.hackerknowledge.de"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "HashVault.pro",
+			"url" : "https://turtle.hashvault.pro/",
+			"apiAddress" : "https://turtle.hashvault.pro/api/",
+			"scriptType" : "node.js",
+			"miningAddress" : "pool.turtle.hashvault.pro"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "Llama.Horse",
+			"url" : "http://trtl.llama.horse/",
+			"apiAddress" : "http://pool.llama.horse:8118/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.pool.llama.horse"
+			"miningPort" : "10004"
+		},
+		{
+			"name" : "Mine.nu",
+			"url" : "http://turtle.mine.nu/",
+			"apiAddress" : "http://turtle.mine.nu:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "turtle.mine.nu"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "Mine2Gether.com",
+			"url" : "https://trtl.mine2gether.com/",
+			"apiAddress" : "https://trtl.mine2gether.com/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.pool.mine2gether.com"
+			"miningPort" : "3335"
+		},
+		{
+			"name" : "MinerCartel",
+			"url" : "https://turtle.minercartel.com/",
+			"apiAddress" : "https://api.turtle.minercartel.com/api/",
+			"scriptType" : "node.js",
+			"miningAddress" : "turtle.minercartel.com"
+			"miningPort" : "3333"
+		},
+		{
+			"name" : "Miner.Rocks",
+			"url" : "https://turtle.miner.rocks/",
+			"apiAddress" : "https://turtle.miner.rocks/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "turtle.miner.rocks"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "MineTRTL.us",
+			"url" : "http://ny.minetrtl.us/",
+			"apiAddress" : "http://ny.minetrtl.us:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "ny.minetrtl.us"
+			"miningPort" : "3333"
+		},
+		{
+			"name" : "Proxpool.com",
+			"url" : "http://trtl.proxpool.com/",
+			"apiAddress" : "http://trtl-pool.proxpool.com/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl-pool.proxpool.com"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "TRTL.ninja",
+			"url" : "https://trtl.ninja/",
+			"apiAddress" : "https://trtl.ninja/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "pool.trtl.ninja"
+		},
+		{
+			"name" : "TRTL.waale.me",
+			"url" : "http://trtl.waale.me/",
+			"apiAddress" : "http://trtl.waale.me:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtl.waale.me"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "TRTLCoinPool.tk",
+			"url" : "http://trtlcoinpool.tk/",
+			"apiAddress" : "http://trtlcoinpool.tk:2082/",
+			"scriptType" : "forknote",
+			"miningAddress" : "trtlcoinpool.tk"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "Turtle.casa",
+			"url" : "https://turtle.casa/",
+			"apiAddress" : "https://api.turtle.casa/",
+			"scriptType" : "forknote",
+			"miningAddress" : "turtle.casa"
+			"miningPort" : "101"
+		},
+		{
+			"name" : "Turtle.smartcoinpool.com",
+			"url" : "https://turtle.smartcoinpool.com/",
+			"apiAddress" : "https://turtle.smartcoinpool.com:3109/",
+			"scriptType" : "forknote",
+			"miningAddress" : "turtle.smartcoinpool.com"
+			"miningPort" : "3111"
+		},
+		{
+			"name" : "TurtlePool.ml",
+			"url" : "http://turtlepool.ml/",
+			"apiAddress" : "http://turtlepool.ml:8117/",
+			"scriptType" : "forknote",
+			"miningAddress" : "turtlepool.ml"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "TurtlePool.space EU",
+			"url" : "http://eu.turtlepool.space/",
+			"apiAddress" : "http://eu.turtlepool.space/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "eu.turtlepool.space"
+			"miningPort" : "5555"
+		},
+		{
+			"name" : "TurtlePool.space HK",
+			"url" : "http://hk.turtlepool.space/",
+			"apiAddress" : "http://hk.turtlepool.space/api/",
+			"scriptType" : "forknote",
+			"miningAddress" : "hk.turtlepool.space"
+			"miningPort" : "5555"
+		}
+	]
+}
